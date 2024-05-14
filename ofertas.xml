@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ofertas de la semana</title>
+    <link>https://danireyeesss.github.io/Mi-primer-sitio-web</link>
+    <description>Las últimas ofertas de la semana.</description>
+    <item>
+      <title>Oferta 1</title>
+      <description>DUCATI</description>
+      <pubDate>Miércoles, 12 de mayo de 2024</pubDate>
+      <link>https://danireyeesss.github.io/Mi-primer-sitio-web/ofertas.html</link>
+    </item>
+    <item>
+      <title>Oferta 2</title>
+      <description>APRILIA</description>
+      <pubDate>Jueves, 13 de mayo de 2024</pubDate>
+      <link>https://danireyeesss.github.io/Mi-primer-sitio-web/ofertas.html</link>
+    </item>
+  </channel>
+</rss>
