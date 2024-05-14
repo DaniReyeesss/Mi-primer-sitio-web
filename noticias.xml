@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias destacadas</title>
+    <link>https://danireyeesss.github.io/Mi-primer-sitio-web"</link>
+    <description>Las últimas noticias destacadas.</description>
+    <item>
+      <title>Noticia 1</title>
+      <description>Acosta lidera la previa al plato fuerte del domingo</description>
+      <pubDate>Martes, 11 de mayo de 2024</pubDate>
+      <link>https://danireyeesss.github.io/Mi-primer-sitio-web/noticias.html"</link>
+    </item>
+    <item>
+      <title>Noticia 2</title>
+      <description>MÁRQUEZ: "HEMOS PELEADO CON LOS DOS GALLOS DE DUCATI"</description>
+      <pubDate>Viernes, 14 de mayo de 2024</pubDate>
+      <link>https://danireyeesss.github.io/Mi-primer-sitio-web/noticias.html"</link>
+    </item>
+  </channel>
+</rss>
